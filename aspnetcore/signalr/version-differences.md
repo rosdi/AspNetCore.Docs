@@ -157,11 +157,12 @@ ASP.NET SignalR supports SQL Server and Redis. ASP.NET Core SignalR supports Azu
 
 * [SignalR scaleout with Azure Service Bus](/aspnet/signalr/overview/performance/scaleout-with-windows-azure-service-bus)
 * [SignalR scaleout with Redis](/aspnet/signalr/overview/performance/scaleout-with-redis)
-* [SignalR scaleout with SQL Server](/aspnet/signalr/overview/performance/scaleout-with-sql-server)
+* [SignalR scaleout with SQL Server](/aspnet/signalr/scale/)
 
 ### ASP.NET Core
 
 * [Azure SignalR Service](/azure/azure-signalr/)
+* [Redis Backplane](redis-backplane)
 
 ## Additional resources
 
